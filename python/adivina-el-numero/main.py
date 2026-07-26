@@ -1,7 +1,7 @@
 '''
 Adivina el Número:
 
-La máquina elige un número del 1 al 100; tú adivinas y te dice
+La máquina elige un número del 1 al número que indiques; tú adivinas y te dice
 "mayor" o "menor" hasta acertar. Al final muestra cuántos intentos
 usaste.
 
